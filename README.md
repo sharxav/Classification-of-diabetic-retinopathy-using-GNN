@@ -1,4 +1,4 @@
-# GNN_DR
+# Classification of diabetic retinopathy using GNN
 
 1.Each python file consists of the reference page at the beginning of the file.
 
